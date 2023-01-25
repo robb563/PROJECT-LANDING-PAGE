@@ -1,2 +1,2 @@
 # PROJECT-LANDING-PAGE
--a project that test's my understanding of flex-box
+-a project that test's the understanding of flex-box
