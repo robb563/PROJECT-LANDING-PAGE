@@ -41,18 +41,7 @@ a {
     display: flex;
     gap: 20px;
 }
-/*
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding-left: 180px;
-    padding-right: 180px;
-    padding-top: 6;
-    padding-bottom: 6;
-    display: flex;
-    justify-content: flex-end;
-}
-*/
+
 .content {
     padding-left: 120px;
     padding-right: 120px;
